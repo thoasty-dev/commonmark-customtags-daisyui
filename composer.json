@@ -1,0 +1,20 @@
+{
+    "name": "develate/commonmark-customtags-daisyui",
+    "description": "CommonMark Customtags for daisyui",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Develate\\CommonmarkCustomtagsDaisyui\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thorsten Krüger",
+            "email": "thorsten@develate.com"
+        }
+    ],
+    "require": {
+        "develate/commonmark-customtags": "^1.0"
+    }
+}
